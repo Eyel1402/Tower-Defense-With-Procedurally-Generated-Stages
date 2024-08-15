@@ -1,6 +1,8 @@
 ## Slime Raid Cookie TD
 ![image](https://github.com/user-attachments/assets/78cbfb0e-b226-4ca1-99ce-4a0e9db00dbc)
 
+[Download Link](https://eyel1402.itch.io/slime-raid-cookie-td)
+
 ## Description
 Slime Raid Cookie TD is a tower defense game where your primary goal is to protect a precious cookie from relentless waves of slimes. Set in a dynamically generated 2D environment, the game uses Perlin noise for procedural map generation, ensuring that each playthrough offers a unique experience.
 
